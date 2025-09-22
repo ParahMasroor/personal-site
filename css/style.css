@@ -1,0 +1,21 @@
+#intro-section > div > .color-change {
+    background-color: #EAEAEA !important;
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+#hanging-icons {
+    background-color: #EAEAEA;
+}
+
+.color-change-1 {
+    background-color: #fcfcfc;
+}
+
+.color-change-2 {
+    background-color: #EAEAEA !important;
+}
